@@ -1,5 +1,4 @@
 /*
- * finalproject.c
  *
  * Created: 3/5/2018 8:38:31 AM
  * Author : Chester Lau
